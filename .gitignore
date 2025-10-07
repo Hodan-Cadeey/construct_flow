@@ -1,0 +1,49 @@
+# OS-specifieke bestanden
+.DS_Store
+Thumbs.db
+
+# Logbestanden
+*.log
+
+# Omgevingsbestanden
+.env
+.env.backup
+.env.production
+auth.json
+
+# Editor-/IDE-specifieke mappen
+/.idea/
+/.vscode/
+/.fleet/
+/.zed/
+
+# Laravel-specifieke bestanden en mappen
+/vendor/
+/node_modules/
+/public/build/
+/public/hot/
+/public/storage/
+/storage/*.key
+/storage/pail/
+/.phpunit.result.cache
+.phpactor.json
+.phpunit.cache
+
+# Homestead
+Homestead.yaml
+Homestead.json
+
+# Vagrant
+/.vagrant/
+
+# Laravel 4
+bootstrap/compiled.php
+app/storage/
+
+# Laravel 5 & Lumen
+public_html/storage/
+public_html/hot/
+
+# Package managers
+npm-debug.log
+yarn-error.log
