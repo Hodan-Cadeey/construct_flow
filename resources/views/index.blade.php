@@ -12,9 +12,11 @@
         <i><a href="projects">Project</a></i>
     </nav>
 
-    <section>
+    {{-- <section>
         {{-- contenct hier --}}
-    </section>
+        {{-- <p>{{@session('success')
+             @endsession}}</p>
+    </section>  --}}
 
     <footer>
 

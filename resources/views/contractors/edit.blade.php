@@ -55,6 +55,7 @@
 
     </div>
     <button type="submit">Save Contractor</button>
+    
 </form>
     
 </body>
